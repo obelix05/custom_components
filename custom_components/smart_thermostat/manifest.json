@@ -1,7 +1,7 @@
 {
   "domain": "smart_thermostat",
   "name": "Smart thermostat",
-  "documentation": "https://github.com/fabiannydegger/custom_components",
+  "documentation": "https://github.com/obelix05/smart_thermostat",
   "requirements": [],
   "dependencies": [
     "sensor",
