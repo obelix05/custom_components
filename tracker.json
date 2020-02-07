@@ -1,0 +1,15 @@
+{
+    "smart_thermostat": {
+        "updated_at": "2020-02-07",
+        "version": "0.0.1",
+        "local_location": "/custom_components/smart_thermostat/__init__.py",
+        "remote_location": "https://raw.githubusercontent.com/obelix05/smart_thermostat/master/custom_components/smart_thermostat/__init__.py",
+        "visit_repo": "https://raw.githubusercontent.com/obelix05/smart_thermostat",
+        "changelog": "https://raw.githubusercontent.com/obelix05/smart_thermostat/releases/latest",
+        "resources": [
+            "https://raw.githubusercontent.com/obelix05/smart_thermostat/master/custom_components/smart_thermostat/manifest.json",
+            "https://raw.githubusercontent.com/obelix05/smart_thermostat/master/custom_components/smart_thermostat/climate.py",
+            "https://raw.githubusercontent.com/obelix05/smart_thermostat/master/custom_components/smart_thermostat/pid_controller/__init__.py"
+        ]
+    }
+}
