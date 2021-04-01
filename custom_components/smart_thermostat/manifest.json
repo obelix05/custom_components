@@ -3,6 +3,7 @@
   "name": "Smart thermostat",
   "documentation": "https://github.com/obelix05/smart_thermostat",
   "requirements": [],
+  "version": "master",
   "dependencies": [
     "sensor",
     "switch"
